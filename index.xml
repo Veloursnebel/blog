@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://veloursnebel.github.io/kai.github.io/</link>
+    <link>https://veloursnebel.github.io/blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <image>
-      <url>https://veloursnebel.github.io/kai.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://veloursnebel.github.io/kai.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://veloursnebel.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://veloursnebel.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2022 14:00:07 +0100</lastBuildDate><atom:link href="https://veloursnebel.github.io/kai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 14:00:07 +0100</lastBuildDate><atom:link href="https://veloursnebel.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://veloursnebel.github.io/kai.github.io/posts/my-first-post/</link>
+      <link>https://veloursnebel.github.io/blog/posts/my-first-post/</link>
       <pubDate>Sun, 30 Oct 2022 14:00:07 +0100</pubDate>
       
-      <guid>https://veloursnebel.github.io/kai.github.io/posts/my-first-post/</guid>
+      <guid>https://veloursnebel.github.io/blog/posts/my-first-post/</guid>
       <description>Test Test Test Test Test Hello Hellow</description>
     </item>
     

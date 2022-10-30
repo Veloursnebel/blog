@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://veloursnebel.github.io/kai.github.io/posts/my-first-post/</loc>
+    <loc>https://veloursnebel.github.io/blog/posts/my-first-post/</loc>
     <lastmod>2022-10-30T14:00:07+01:00</lastmod>
   </url><url>
-    <loc>https://veloursnebel.github.io/kai.github.io/</loc>
+    <loc>https://veloursnebel.github.io/blog/</loc>
     <lastmod>2022-10-30T14:00:07+01:00</lastmod>
   </url><url>
-    <loc>https://veloursnebel.github.io/kai.github.io/posts/</loc>
+    <loc>https://veloursnebel.github.io/blog/posts/</loc>
     <lastmod>2022-10-30T14:00:07+01:00</lastmod>
   </url><url>
-    <loc>https://veloursnebel.github.io/kai.github.io/categories/</loc>
+    <loc>https://veloursnebel.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://veloursnebel.github.io/kai.github.io/tags/</loc>
+    <loc>https://veloursnebel.github.io/blog/tags/</loc>
   </url>
 </urlset>
