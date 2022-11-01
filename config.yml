@@ -30,7 +30,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  commens: false
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -77,6 +77,8 @@ params:
       url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/"
+    - name: goodreads
+      url: "https://www.goodreads.com/user/show/85680139-kai"
 
   analytics:
     google:
